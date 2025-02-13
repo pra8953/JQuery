@@ -1,0 +1,49 @@
+What is Jqury ??
+
+
+"Lightweight javascript Library"
+
+
+
+javascript main kya problem tha??
+
+1. Long Selector
+2. Complex Animations
+3. Lengthy Dom manipulation
+4. Lengthy Ajax Code
+
+
+but jquery inn sab ka function bana diya aur ushey apney file main store kar diya hai.
+
+
+
+Gole:- "Write less , do more"
+
+
+
+Why use jquery??
+
+
+1. short selectors
+2. variety of Animation function
+3. Easy CSS Styling
+4. Simple Ajax Code
+
+
+
+document.getElementsByClassName('classname');
+
+                      or
+
+$('.classname');
+
+
+
+
+
+Benefits of JQuery ??
+
+1.  Browser Independent
+2. Increase coding speed
+
+

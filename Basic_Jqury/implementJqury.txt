@@ -1,0 +1,10 @@
+
+3 step to implement JQury in Html
+
+step 1 : Download JQuery.js file
+
+step 2: Include Jqury.js file in HTML file
+
+step 3: Do JQuery code in Script tag
+
+
